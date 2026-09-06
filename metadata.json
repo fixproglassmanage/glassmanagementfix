@@ -1,0 +1,6 @@
+{
+  "name": "FixProBD Admin",
+  "description": "Inventory, Sales, Due Management & POS System for FixProBD",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
